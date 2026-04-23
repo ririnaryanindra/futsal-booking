@@ -23,3 +23,7 @@ UI Framework: Bootstrap 5
 Database: MySQL
 Templating: Blade (Laravel)
 AJAX: jQuery AJAX
+
+NAMA   : Ririn Eka Aryanindra
+NIM    : 220103247
+KELAS  : 22TIB1
